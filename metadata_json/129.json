@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #129 — Fighter Pilot",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/129.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Fighter Pilot"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Professional / Public Service / Skilled Jobs"
+    }
+  ]
+}

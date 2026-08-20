@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #175 — Motocross Rider",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/175.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Motocross Rider"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Sports"
+    }
+  ]
+}

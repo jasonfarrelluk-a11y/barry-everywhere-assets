@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #020 — Burger Chef",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/020.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Burger Chef"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Food / Retail / Service"
+    }
+  ]
+}

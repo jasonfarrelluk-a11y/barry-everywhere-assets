@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #019 — Pizza Chef",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/019.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Pizza Chef"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Food / Retail / Service"
+    }
+  ]
+}

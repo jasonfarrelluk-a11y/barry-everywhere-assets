@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #036 — Apple Store Worker",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/036.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Apple Store Worker"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Food / Retail / Service"
+    }
+  ]
+}

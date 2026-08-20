@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #045 — Market Stall Trader",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/045.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Market Stall Trader"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Food / Retail / Service"
+    }
+  ]
+}

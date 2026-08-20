@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #026 — Ice Cream Van Seller",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/026.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Ice Cream Van Seller"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Food / Retail / Service"
+    }
+  ]
+}

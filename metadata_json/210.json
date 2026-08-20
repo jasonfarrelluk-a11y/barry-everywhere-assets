@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #210 — DJ",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/210.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "DJ"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Music / Entertainment"
+    }
+  ]
+}

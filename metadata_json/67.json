@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #067 — Dumper Truck Operator",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/067.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Dumper Truck Operator"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Trades / Manual / Construction"
+    }
+  ]
+}

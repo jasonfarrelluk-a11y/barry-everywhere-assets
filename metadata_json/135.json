@@ -1,0 +1,15 @@
+{
+  "name": "Barry Everywhere #135 — Goalkeeper",
+  "description": "Barry is everywhere. Same tired bloke, 250 different lives.",
+  "image": "https://raw.githubusercontent.com/jasonfarrelluk-a11y/barry-everywhere-assets/main/Images/135.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Goalkeeper"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Sports"
+    }
+  ]
+}
